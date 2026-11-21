@@ -1,0 +1,19 @@
+# user data — never publish
+data.json
+avatars/
+error.log
+_app.log
+
+# python
+__pycache__/
+*.pyc
+
+# pyinstaller
+build/
+dist/
+*.spec
+
+# test/research leftovers
+_thumb_test*.py
+_esc_test.py
+rk_*.cs
